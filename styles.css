@@ -1,0 +1,74 @@
+.Tonmoy{
+    font-weight:bold;
+    color:red;
+    
+
+}
+body {font-family: 'Trade Winds', ;}
+
+.half-wdth {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%
+}
+.half-wdth img {
+    width: 100%;
+
+}
+.top-bannar{
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+body{
+    margin: 0;
+}
+.batton{
+    text-decoration: none;
+    background-image: linear-gradient(50deg, red
+   , black
+    );
+    color:blue;
+    padding: 10px 20px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.dream{
+    background-image: url("img/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.Tonmoy{
+    font-weight:bold;
+    color:red;
+}
+.single{
+    box-shadow:10px 10px 40px chocolate;
+    height:80%;
+    background-color: cornsilk;
+
+}
+.exp{
+    background-image: url("img/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon , tomato);
+    border-image-slice:1 ;
+}
+#full1{
+    border-left:7px solid;
+    border-image:linear-gradient(180deg,blue, yellow) ;
+    border-image-slice:1 ;
+}
+footer p{
+    font-size: large;
+    text-align: center;
+}
